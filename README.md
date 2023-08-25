@@ -4,7 +4,7 @@
 <h3 align="center">I'm Computer Science and Engineer from India.</h3>
 
 
-## 🙋♂️ About Me
+## 🙋 About Me
 
 - 👩‍🎓 Bachelor of *Computer Science and Engineer*
 
